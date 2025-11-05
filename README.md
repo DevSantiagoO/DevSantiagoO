@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RtNmRmb3IwZzYxYXc4ZHhqdXRsMXI1NzlwOW5hNjR1bGhtbXQ3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qyml5wziJeHreuOdzu/giphy.gif" width="85">Holaa, soy Santiago Oliva<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3V2Y2Z3YWNna3oweDJqYmdlZDE5YWxzOWE1ZjY1MHlneW1tcjZydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m4jsEb9dmuBIQ/giphy.gif" width = "85"></h1>
 
-![Banner de DevSantiagoO](DESARROLLADOR.png)
+![Banner de DevSantiagoO](DESARROLLADOR.gif)
 
 <h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZoZmxydzhidXJvM2x6ZzM0NXpnb2ptemlxMDB5c29xYXJzZzU1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vbh1DbykBFywj5VWY9/giphy.gif" width = "20"> SOBRE MI <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY2bjhob3ZpN2xiaTQ1OWRxN2Z0Y2V1bmJ2Ymp6MHF0NXk3cWZ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AP5bzIaYAJ7bksNTlo/giphy.gif" width ="40"></h2>
 
