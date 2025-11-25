@@ -57,6 +57,8 @@ Mi stack principal se centra en **Java SE** y el manejo de **Bases de Datos Rela
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantiagoO&layout=compact&theme=dark">
 </p>
 
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=DevSantiagoO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
