@@ -50,14 +50,6 @@ Mi stack principal se centra en **Java SE** y el manejo de **Bases de Datos Rela
 #### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9oeWNlZjU0OXJ4empxNGpqaG9naWRsb2M5MnFqczJub3d1aWF2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o6ZtfKPh5tfTuyUc8/giphy.gif" width="40">**Social**  
 <a href="https://www.linkedin.com/in/santiago-oliva-792668299/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<h2> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQ2M2Z3bno1MHNya2I0Z25sMjJkczZ5bXp6YXhobTdveWI1eWZmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gn6kA7m6fYVw0htGQ2/giphy.gif" width="40">Mis Estadísticas de GitHub</h2> 
-<p align="center">
- 
-![Santi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DevSantiagoO&show_icons=true&theme=dark#gh-dark-mode-only)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantiagoO&layout=compact&theme=dark">
-</p>
-
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=DevSantiagoO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
